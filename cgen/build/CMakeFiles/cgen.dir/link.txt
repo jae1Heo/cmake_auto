@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cgen.dir/main.cpp.o CMakeFiles/cgen.dir/src/file_gen.cpp.o CMakeFiles/cgen.dir/src/folder_gen.cpp.o -o cgen 

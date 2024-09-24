@@ -1,0 +1,3 @@
+/home/publa/Desktop/cgen/build/CMakeFiles/cgen.dir
+/home/publa/Desktop/cgen/build/CMakeFiles/edit_cache.dir
+/home/publa/Desktop/cgen/build/CMakeFiles/rebuild_cache.dir
